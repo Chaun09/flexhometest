@@ -1,0 +1,6 @@
+@media(max-width:481px) {
+    .container{
+        grid-template-columns: 384fr 96rem;
+
+    }
+}
