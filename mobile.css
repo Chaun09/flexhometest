@@ -8,12 +8,11 @@
     height: 1066.66rem;
   }
   .navigation {
-    height: 48rem;
+    height: 40rem;
   }
   .product {
     height: 274.66rem;
   }
-
   .container_left h1 {
     font-size: 24rem;
   }
@@ -23,7 +22,6 @@
   }
   .floor.hidd {
     display: block;
-    position: relative;
   }
   .tower > img {
     margin: 0;
@@ -34,7 +32,7 @@
     justify-content: center;
     flex-direction: column;
     width: 348rem;
-    height: 697rem;
+    height: 712rem;
   }
   .navigation u,
   .navigation p {
@@ -92,5 +90,13 @@
   }
   .fs_16 {
     font-size: 12rem;
+  }
+  .footer p {
+    transform: translate(0%, 2rem);
+  }
+
+  .navigation img {
+    width: 24rem;
+    height: 24rem;
   }
 }

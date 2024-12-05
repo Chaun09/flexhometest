@@ -2,15 +2,15 @@
   .container {
     grid-template-columns: 670fr 98rem;
   }
-
   .container_left {
     padding: 48rem 48rem 0;
   }
-
   .product {
     height: 232rem;
   }
-
+  .footer {
+    margin-bottom: 0;
+  }
   .map img:first-child {
     margin-right: 24rem;
   }
